@@ -1,3 +1,5 @@
+:warning: *This repository longer updated, see https://github.com/uc-cdis/kf-dictionary*
+
 # Kids First Data Dictionary
 
 The Kids First data dictionary provides the first
